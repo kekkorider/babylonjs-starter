@@ -1,3 +1,5 @@
+[![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=21883a34-bde1-47a7-b8f0-c6c01c491479)
+
 # babylonjs-starter
 
 ## Requirements

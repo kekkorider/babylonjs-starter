@@ -2,7 +2,7 @@ version: 1.0
 publish: app
 services:
   app:
-    command: yarn build
+    command: ["yarn install", "yarn build"]
     build:
       type: dockerfile
       config: ./.runme/Dockerfile
